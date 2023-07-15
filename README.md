@@ -1,4 +1,4 @@
-# DSA-Programs
+# java-Programs
 
 Write a function in java that takes an array of integers and a rotation count as input and rotates the elements of the array to the right by the given rotation count.
 
